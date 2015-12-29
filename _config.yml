@@ -1,0 +1,28 @@
+name: The Portrait
+favicon: null
+layout_spectrum: 0.3001277500297874
+typography_spectrum: 0.3346026469953358
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.13312873640097678
+  lightness: 0.5525965350680053
+  saturation: 0.36411695438437164
+  rhythmicContrast: 0.44884412502869964
+purpose: []
